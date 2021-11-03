@@ -10,4 +10,4 @@ PDF available
 
 _(you can have a look on what do the game looks like here)_:
 
-https://www.canva.com/design/DAEs_3_dRGw/URqeHWxR9VTYPnYXNuKLtw/view?utm_content=DAEs_3_dRGw&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
+https://www.canva.com/design/DAEiIYdg5cc/mU9eF3o0JxGlnkb3Kms-yA/view?utm_content=DAEiIYdg5cc&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
