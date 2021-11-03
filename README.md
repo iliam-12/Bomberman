@@ -6,6 +6,9 @@ PDF available
     Then, in the repository : mkdir build; cd build; cmake ..; make -j; cd ..
     Execute : build/bomberman
 
+## What does the game looks like :
+![runner (online-video-cutter com)](https://user-images.githubusercontent.com/65111947/140099872-d5896d6a-6923-4cde-b3ab-5697673b144c.mp4)
+
 #### REVIEW:
 
 _(you can have a look on what do the game looks like here)_:
